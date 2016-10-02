@@ -1,0 +1,14 @@
+{
+  "name": "versioneye-image-reproduction",
+  "version": "1.0.0",
+  "description": "Simple reproduction for versioneye/versioneye#646",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kadira/storybook": "^2.20.1"
+  }
+}
